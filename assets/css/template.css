@@ -1,9 +1,3 @@
-.header-homepage{margin-top:-10px;}
-.header-foot{padding:40px 0px 40px 0px;}
-.body-main{margin-top:50px;min-height:400px;}
-.loginForm{margin: 0 auto;width:60%;padding-top:30px;}
-.introWIW div{position:relative;text-align:center;height:180px;}
-.introWIW div p{position:relative;bottom:0px;}
 .navbar-brand{color:#fff;}
 .navbar-brand:focus, .navbar-brand:hover{color:rgba(230,230,230,0.8);}
 .navbar, .navbar-fixed-top{padding:0px;}
@@ -11,32 +5,3 @@
 .navbar-inner>.container{max-width:1170px;}
 .nav>li>a{color:#fefefe}
 .nav>li>a:hover{color:#003b6a;}
-.mast{background:#003b6a;padding-top:60px;padding-bottom:100px;color:#fcfcfc;text-align:center;background-size: 100%;background-position: 50% 50%}
-.mast .jumbotron{background: rgba(0,0,0,0.4);}
-.method-header{color:#777}
-.method-demo{margin-bottom:80px;}
-.productdata{padding-bottom:10px;}
-.footer{background:#87888A;height:300px;}
-productdata h3{color:#003b6a;}
-.launchBoxContainer{background:#87888A;max-width:1280px;margin:0 auto;}
-.launchBox{height:750px;background:#777;margin-bottom:15px;background:url('../../images/a_a_gsr_18v-60c_5_0ah_fensterbau-10.jpg');
-    background-position:50% 45%;background-size:100%;background-repeat:no-repeat;}
-.launchBox .caption{background:rgba(20,20,20,0.3);border-radius: 15px;position:relative;top:330px;left:62%;width:330px;padding:10px;}
-.launchBox .caption h1, .launchBox .caption h3{color:#fff;left:800px;}
-.launchBox h2{color:#fff;background:rgba(20,20,20,0.4);padding:10px;border-radius:10px;}
-.yearBox>a{margin-bottom:15px;color:#fff;}
-.yearBox>a>div{height:300px;margin:0 auto;}
-.yearBox>a>div>h1{position:relative;bottom:10px;background:rgba(20,20,20,0.6);padding:5px 20px 5px 30px;float:right;border-radius:5px 0px 0px 5px;}
-.qBox>a{margin-bottom:15px;color:#efefef;}
-.qBox>a:hover{color:#fff;}
-.qBox>a>div{height:300px;margin:0 auto;border-radius:20px;}
-.qBox>a>div>h1:hover{background:#003b6a;}
-.qBox>a>div>h1{position:relative;top:10px;background:rgba(20,20,20,0.6);padding:5px 20px 5px 30px;float:left;border-radius:0px 5px 5px 0px;}
-.qBoxMain{margin-bottom:15px;color:#efefef;}
-.qBoxMain:hover{color:#fff;}
-.qBoxMain>div{height:600px;margin:0 auto;}
-.qBoxMain>div>h1:hover{background:#003b6a;}
-.qBoxMain>div>h1{position:relative;top:10px;width:230px;background:rgba(20,20,20,0.6);padding:5px 20px 5px 30px;float:left;border-radius:0px 5px 5px 0px;}
-.qBoxMain>div .caption{position:absolute;top:25%;left:60%;background:rgba(20,20,20,0.6);width:400px;font-size:2em;text-align:center;padding:20px;border-radius:10px;}
-a.btn-launch{border-right: 1px solid #790e0f;background-color: #790e0f;background-image: -webkit-linear-gradient(bottom, #790e0f, #f44d4f);background-image: linear-gradient(0deg, #790e0f 0%, #f44d4f);color:#fff;}
-.fileupload{margin-top:20px;}
